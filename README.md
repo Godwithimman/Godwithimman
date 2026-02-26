@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Immanuvel</h1>
-<h3 align="center">A Passionate cloud and cybersecurity enthusiast</h3>
+<h3 align="center">A Passionate Individual for cloud and cybersecurity</h3>
 
 - 🔭 I’m currently working on **AWS Cloud security projects**
 
